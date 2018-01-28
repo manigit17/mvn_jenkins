@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.journaldev.servlet</groupId>
 	<artifactId>ManiWebApp</artifactId>
-	<version>5</version>
+	<version>8</version>
 	<packaging>war</packaging>
 	<name>ManiWebApp</name>
 
